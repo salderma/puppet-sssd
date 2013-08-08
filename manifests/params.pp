@@ -44,4 +44,8 @@ class sssd::params {
     default => 'root',
   }
 
+  # users
+  $users = undef
+
+
 }

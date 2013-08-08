@@ -120,7 +120,8 @@ class sssd (
   $my_class            = undef,
 
   $audits              = undef,
-  $noops               = undef
+  $noops               = undef,
+  $users		= undef
 
   ) {
 
